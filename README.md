@@ -1,7 +1,7 @@
 - Clone the repo
 
 ```jsx
-git clone https://github.com/100xdevs-cohort-2/week-17-final-code
+https://github.com/Virajjai/pay-2.git
 ```
 
 - npm install
